@@ -7,7 +7,6 @@ VSCode - https://code.visualstudio.com/
 
 Git - https://git-scm.com/
 
-Postman - https://www.postman.com/
 
 Install all application.
 
